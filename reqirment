@@ -1,0 +1,5 @@
+transformers
+torch
+gradio
+timm
+ImageFont,ImageDraw(PIL)
